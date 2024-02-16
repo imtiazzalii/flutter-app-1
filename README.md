@@ -1,16 +1,20 @@
-# my_first_app
+# Flutter Text App
 
-A new Flutter project.
+Welcome to the Flutter Text App! This app displays text and allows you to interact with it using two buttons: "Like" and "Next". Additionally, it features a favorites page where you can view the liked text.
 
-## Getting Started
+## Contributors
 
-This project is a starting point for a Flutter application.
+This project was made possible by the following contributors:
+- Imtiaz Ali (20k0313)
+- Ahad Ghouri (20k-0356)
+- Muhammad Warzan (20k-1649)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Display Text: The app displays text on the home page.
+- Like Button: Allows you to like the displayed text.
+- Next Button: Helps you move to the next text.
+- Favorites Page: Displays all the liked text.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
